@@ -1,0 +1,23 @@
+{
+  "name": "aoc-2023",
+  "version": "1.0.0",
+  "description": "Advent of Code 2023 solutions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirillkurko/aoc-2023.git"
+  },
+  "scripts": {
+    "exec": "ts-node index.ts"
+  },
+  "keywords": [
+    "aoc-2023",
+    "advent-of-code"
+  ],
+  "author": "Kirill Kurko",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
